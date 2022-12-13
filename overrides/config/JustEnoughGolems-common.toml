@@ -1,0 +1,7 @@
+
+["JustEnoughGolems Config File!"]
+	#Determines if the Magmatic Golem should spawn in the nether!
+	"Magmatic Golem Should Spawn" = true
+	#Sets the Magmatic Golem spawn weight in the nether!
+	"Magmatic Golem Spawn Weight" = 6
+

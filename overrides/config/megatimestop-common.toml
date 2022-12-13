@@ -1,0 +1,10 @@
+
+#General settings
+[general]
+	#config
+	useShader = true
+	multiple_attacks = true
+	force_stop = false
+	#Range: 1 ~ 2
+	mode = 1
+
